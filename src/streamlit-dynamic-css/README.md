@@ -1,6 +1,6 @@
 # streamlit-dynamic-css
 
-Streamlit component that fixes st.mark
+Streamlit component that allows for custom CSS to be sized dynamically to Integral Streamlit elements
 
 ## Installation instructions 
 
